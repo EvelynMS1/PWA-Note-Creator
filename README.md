@@ -1,8 +1,10 @@
-# PWA-Note-Creator  ![license](https://img.shields.io/badge/license-MIT-blue.svg)
+# PWA-Note-Creator ![license](https://img.shields.io/badge/license-MIT-blue.svg)
 
 ## Description
- 
-## Table of Contents 
+
+The purpose of creating this project was for making use of the service worker as it is a tool that will possibly be used in future projects. This project solves the problem of allowing a user to use an application through the process of downloading the application. I learned that though a webpack package along with the npmrc package the service worker functionality can be integrated.
+
+## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -16,36 +18,34 @@
 
 ## Installation
 
- N/A
+N/A
 
 ## Usage
 
- N/A
+N/A
 
 ## Credits
 
-
- N/A
+N/A
 
 ## License
 
- This project is licensed under the terms of the MIT license
+This project is licensed under the terms of the MIT license
 
- 
 ## Badges
- MIT license
 
+MIT license
 
 ## Features
- Creates a badge for license chosen for repository 
 
-
+Creates a badge for license chosen for repository
 
 ## How-to-Contribute
 
 ## Tests
 
 ## Questions
+
 -[Github](https://github.com/EvelynMS1)
 
 -montessobalevelyn@gmail.com
