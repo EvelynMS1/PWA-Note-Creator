@@ -3,6 +3,8 @@
 ## Description
 
 The purpose of creating this project was for making use of the service worker as it is a tool that will possibly be used in future projects. This project solves the problem of allowing a user to use an application through the process of downloading the application. I learned that though a webpack package along with the npmrc package the service worker functionality can be integrated.
+![JATE](./client/src/images/Screenshot%202023-07-12%20at%2019-13-04%20J.A.T.E.png)
+[heroku deployed page] (https://pwa-note-creator-fe55a03d0200.herokuapp.com/)
 
 ## Table of Contents
 
